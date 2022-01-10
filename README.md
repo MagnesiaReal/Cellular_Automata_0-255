@@ -1,3 +1,3 @@
 # Cellular Automata
+***Autor:*** Marco Antonio Garrido Rojas. 2019
 
-Rules 0 to 255.
