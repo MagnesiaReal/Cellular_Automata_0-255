@@ -454,7 +454,6 @@ void PyGrafica1(bool* estoy, stringstream* Datos)
 void CelularA::update(const float& Delta)
 {
 
-  std::cout << "delta: " << Delta << std::endl;
 	if (Keyboard::isKeyPressed(Keyboard::Key::G) and !this->gra1s) {
 		this->gra1s = true;
 		this->grafica1s = new thread(&PyGrafica1, &this->gra1s,&this->Datus);
