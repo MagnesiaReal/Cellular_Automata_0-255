@@ -57,7 +57,7 @@ public:
 	void rndtlnperFPS();
 	void checkPosReg();
 	void savepixel();
-	void MoveView(Vector2f movimiento);
+  void MoveView(Vector2f movimiento);
 	void ZoomView(float fact);
 
 	void CursorPosition();

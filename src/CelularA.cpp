@@ -426,9 +426,8 @@ void CelularA::savepixel()
 	
 }
 
-void CelularA::MoveView(Vector2f cursor)
-{
-	
+void CelularA::MoveView(Vector2f movimiento){
+
 }
 
 void CelularA::ZoomView(float fact)
