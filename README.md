@@ -33,3 +33,23 @@ cd bin/
 ./automata_celular
 
 ```
+
+## Example
+
+***Menu***
+
+![menu](https://github.com/MagnesiaReal/Cellular_Automata_0-255/blob/main/images/menu.png)
+
+***Automata***
+
+![automata](https://github.com/MagnesiaReal/Cellular_Automata_0-255/blob/main/images/automata.png)
+
+***Automata zoom***
+
+![zoom](https://github.com/MagnesiaReal/Cellular_Automata_0-255/blob/main/images/zoom.png)
+
+The Imgs dir saves the image of current automata in bmp format.
+
+The Txt dir saves the txt of current automata in 0's and 1's.
+
+![txt](https://github.com/MagnesiaReal/Cellular_Automata_0-255/blob/main/images/txt.png)
