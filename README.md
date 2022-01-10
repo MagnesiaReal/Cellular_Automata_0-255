@@ -3,9 +3,9 @@
 
 
 ### Dependencies
-~ cmake
-~ sfml
-~ g++
+- cmake
+- sfml
+- g++
 
 ## Installation
 
@@ -23,7 +23,7 @@ sudo apt-get install libsfml-dev
 sudo pacman -S sfml
 
 ```
-clone this repository and compile:
+Clone this repository and compile:
 
 ```bash
 git clone https://github.com/MagnesiaReal/Cellular_Automata_0-255.git
