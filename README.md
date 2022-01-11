@@ -1,5 +1,5 @@
 # Cellular Automata
-***Autor:*** Marco Antonio Garrido Rojas. 2019
+***Author:*** Marco Antonio Garrido Rojas. 2019 ESCOM Complex Systems
 
 
 ### Dependencies
